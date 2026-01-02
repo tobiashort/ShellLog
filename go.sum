@@ -1,0 +1,12 @@
+github.com/tobiashort/ansi-go v0.0.0-20250830021733-b15679ec4301 h1:gpBmdjkFXHmn4TpgErPpWjv1qY/21J3ohkcx704/X50=
+github.com/tobiashort/ansi-go v0.0.0-20250830021733-b15679ec4301/go.mod h1:yPoTE564mrx3g7842t9vvduaGlzo38iKRjIqtGANbyU=
+github.com/tobiashort/cfmt-go v0.0.0-20250816044318-5ab05204143b h1:YCDY8IL6LST360MqNxbgVJh08s7rJziHbUP1zkPA1tk=
+github.com/tobiashort/cfmt-go v0.0.0-20250816044318-5ab05204143b/go.mod h1:cCrrgWw5vNVXK8lR7nEeGzQa2FQMR3EltD/Xm/FE2Y8=
+github.com/tobiashort/clap-go v0.0.0-20251022183259-a683fc1f0c62 h1:f9ZNB5djXU9TMsHddOYXCUWgW7bZnEPcbCcvqsHxwSk=
+github.com/tobiashort/clap-go v0.0.0-20251022183259-a683fc1f0c62/go.mod h1:9qtAEV9CrsK38jty6g0EZZIOe9AphxoCn/VKXIqHHF0=
+github.com/tobiashort/isatty-go v0.0.0-20250729193227-00bbda39413c h1:bHu0yDhCDLYWwUvEf+5KUOzb2VNX8F5E046AWbHkHeY=
+github.com/tobiashort/isatty-go v0.0.0-20250729193227-00bbda39413c/go.mod h1:SR1HPbCAU42WyNiMZUkT4uaFR0BhWEUI++hmevlg46Y=
+github.com/tobiashort/th-utils v0.0.0-20260102092354-6db874aa9534 h1:ibQemQUi3Gl2OYQkfwmLrCYbM3FM9EKJ80dKJilzkBo=
+github.com/tobiashort/th-utils v0.0.0-20260102092354-6db874aa9534/go.mod h1:xtG7GfVaZBrienoqO+a8a5JCw6tA9gW4NAExIx/N/0M=
+github.com/tobiashort/utils-go v0.0.0-20260101124110-58662b175096 h1:r3E8I7cqANiKHVF0Bf1nleUFrSgg2QwuokJSWOuh/Yc=
+github.com/tobiashort/utils-go v0.0.0-20260101124110-58662b175096/go.mod h1:3wsCtfMiXqp06v1rGwOpa8djcN7gBE1aVW7AobOjJBE=
