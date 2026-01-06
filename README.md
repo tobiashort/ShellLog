@@ -11,3 +11,5 @@ It allows testers to reconstruct actions, justify findings, and reproduce result
 
 ShellLog logs **everything**, including **sensitive information** such as passwords, tokens, and keys.
 All data is stored **in plain text**. This is **intentional**. You are fully responsible for handling and cleaning up the recorded data.
+
+Tested and may only working with fish-shell.
